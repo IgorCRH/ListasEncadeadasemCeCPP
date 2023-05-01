@@ -8,3 +8,5 @@ e a lista K conterá os nós anteriormente alocados para a lista L.
 2 - Escrever uma função para concatenar duas listas encadeadas L1 e L2.
 
 3 - Escrever uma função para remover elementos repetidos de uma lista encadeada.
+
+4 - Faz os elementos pares de uma lista serem ímpares somando 1.
